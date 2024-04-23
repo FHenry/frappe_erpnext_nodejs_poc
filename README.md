@@ -23,4 +23,8 @@ then in browser http://0.0.0.0:8888/
 
 ### License
 
-GPLv3
+GNU/General Public License (see [license.txt](license.txt))
+
+This project is licensed as GNU General Public License (v3).
+
+By contributing to this project, you agree that your contributions will be licensed under its GNU General Public License (v3).
